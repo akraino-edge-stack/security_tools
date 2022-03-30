@@ -34,6 +34,11 @@ repositories:
     - security_tools
 committers:
     - <<: *akraino_security_tools_ptl
+    - name: 'Wenhui Zhang' 
+      email: 'wenhuizhang.psu@gmail.com'
+      company: 'Bytedance'
+      id: 'wenhuizhang'
+      timezone: 'US/Pacific'
 tsc:
     # yamllint disable rule:line-length
     approval: 'https://wiki.akraino.org/display/AK/TSC+2022-03-03+(Thursday)+7%3A00+am+Pacific'
